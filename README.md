@@ -11,13 +11,11 @@ This is a responsive landing page built based on the design from [Figma Template
 - Fully responsive for desktop and mobile devices  
 - Smooth animations to enhance user experience  
 
-## A bit of a story behind this project
+## About This Project
 
-I spent a looooong time working on this — with plenty of breaks, late nights, and serious grinding.  
-It wasn’t easy and sometimes I really had to push myself hard, but I learned *a lot* along the way.  
-Every pixel, every line of code was crafted with care and patience.  
-
-So yeah, it may look simple on the outside, but this project is packed with sweat and dedication.
+This project was a challenging and rewarding task assigned to me during my front-end development learning process.  
+It required careful attention to detail and a good understanding of responsive design principles.  
+After completing and submitting the work successfully, I decided to share it here as part of my portfolio.
 
 ## Usage
 
@@ -25,4 +23,4 @@ To view the project locally, simply open `index.html` in your browser.
 
 ---
 
-Thanks for checking out my work! Feedback and suggestions are always welcome 🙌
+Thank you for taking the time to review my work. Feedback and suggestions are always welcome!
