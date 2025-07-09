@@ -17,6 +17,11 @@ This project was a challenging and rewarding task assigned to me during my front
 It required careful attention to detail and a good understanding of responsive design principles.  
 After completing and submitting the work successfully, I decided to share it here as part of my portfolio.
 
+## 🌐 Live Demo
+
+You can check the live version deployed on Netlify here:  
+🔗 [https://pc-sitebang.netlify.app/](https://pc-sitebang.netlify.app/)
+
 ## Usage
 
 To view the project locally, simply open `index.html` in your browser.
